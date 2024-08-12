@@ -1,4 +1,17 @@
 ## Nice to meet you! 👋
+
+</br></br>
+
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=useBottle&theme=react-dark)
+
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useBottle&show_icons=true&theme=radical)
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useBottle&layout=compact)
+
 </br>
 
 ⚙️ Skills
@@ -19,8 +32,6 @@
 <img src="https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</br></br>
 
 
 
