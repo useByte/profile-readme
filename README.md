@@ -33,6 +33,7 @@
 
 ⚙️ Tools
 </br></br>
+<img src="https://img.shields.io/badge/homebrew-fbb040?style=for-the-badge&logo=homebrew&logoColor=black">
 <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
