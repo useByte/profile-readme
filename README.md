@@ -24,14 +24,21 @@
 <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white">
 </br>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+</br>
+
+⚙️ Tools
+</br></br>
 <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/obsidian-7c3aed?style=for-the-badge&logo=obsidian&logoColor=white">
 
 
 
