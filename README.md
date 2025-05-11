@@ -2,15 +2,15 @@
 
 </br></br>
 
-![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=zerobyte&theme=react-dark)
+![깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=zeroByte&theme=react-dark)
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobyte&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroByte&show_icons=true&theme=radical)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerobyte&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroByte&layout=compact)
 
 </br>
 
